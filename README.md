@@ -3,4 +3,4 @@
 Aplicacion web desplegada en AWS Amplify. 
  
 ## Enlace de Despliegue 
-- URL Publica: Pendiente 
+- URL Publica: https://main.d3ijuweykb1768.amplifyapp.com 
